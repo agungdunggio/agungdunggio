@@ -8,7 +8,7 @@
 
 ## 🚀 About Me
 
-* 💻 Software Engineer with experience in **Flutter, Laravel, Go, React**
+* 💻 Software Engineer with experience in **Flutter, Laravel, React**
 * 🌍 Passionate about **Geographic Information Systems (GIS)** & 3D Simulation
 * 🏢 Worked with **DPR RI, Bangkit Digital Gorontalo, Timedoor Academy**
 * 📱 Currently building **GoVillage - Digital Village Service App**
@@ -19,7 +19,7 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,laravel,go,react,mysql,postgresql,js,git,docker" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,laravel,react,mysql,postgresql,js,git,docker" />
 </p>
 
 ---
