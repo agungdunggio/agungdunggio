@@ -1,16 +1,82 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Mohamad Prawira Agung Dunggio</h1>
 
-<!--
-**agungdunggio/agungdunggio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&lines=Software+Engineer;Flutter+Developer;Backend+Engineer;GIS+Enthusiast" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+* 💻 Software Engineer with experience in **Flutter, Laravel, Go, React**
+* 🌍 Passionate about **Geographic Information Systems (GIS)** & 3D Simulation
+* 🏢 Worked with **DPR RI, Bangkit Digital Gorontalo, Timedoor Academy**
+* 📱 Currently building **GoVillage - Digital Village Service App**
+* 🎯 Focused on building scalable mobile & backend systems
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,laravel,go,react,mysql,postgresql,js,git,docker" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME&theme=tokyonight" />
+</p>
+
+---
+
+## 🔥 Featured Projects
+
+* 🚀 **GoVillage**
+  Digital platform for village services (request letters, complaints, public services)
+
+* 📱 **Absata App**
+  Attendance & workforce management mobile application
+
+* 🌊 **3D Flood Simulation GIS**
+  Final thesis project using GIS for flood prediction visualization
+
+---
+
+## 🧠 Currently Learning
+
+* 🧩 Clean Architecture (Flutter BLoC & scalable systems)
+* ☁️ Cloud Deployment & DevOps (Docker, CI/CD)
+* 🗺️ Advanced GIS Visualization
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/USERNAME">LinkedIn</a> •
+  <a href="mailto:youremail@gmail.com">Email</a>
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://github.com/USERNAME/USERNAME/blob/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+## 👀 Profile Views
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=USERNAME&color=blue" />
+</p>
+
+---
+
+✨ *"Building impactful digital solutions through code & innovation"* ✨
