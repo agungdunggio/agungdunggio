@@ -57,8 +57,8 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/USERNAME">LinkedIn</a> •
-  <a href="mailto:youremail@gmail.com">Email</a>
+  <a href="https://linkedin.com/in/agungdunggio">LinkedIn</a> •
+  <a href="mailto:agngdnggio@gmail.com">Email</a>
 </p>
 
 ---
@@ -66,7 +66,7 @@
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://github.com/USERNAME/USERNAME/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://github.com/agungdunggio/agungdunggio/blob/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
@@ -74,7 +74,7 @@
 ## 👀 Profile Views
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=USERNAME&color=blue" />
+  <img src="https://komarev.com/ghpvc/?username=agungdunggio&color=blue" />
 </p>
 
 ---
